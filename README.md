@@ -31,4 +31,9 @@ print("Hello")
 | :---: | :---:| :---: | :---: |
 | auto | auto1 | auto2 | auto3 |
 
+### usage
+
+1. install C++
+2. install protobuff
+3. compile with G++
 
