@@ -29,7 +29,7 @@ int main(void)
 
 아래는 Hello를 출력하는 파이썬 코드입니다.
 
-''' python
+``` python
 print("Hello")
 ```
 
