@@ -31,7 +31,7 @@ print("Hello")
 | :---: | :---:| :---: | :---: |
 | auto | auto1 | auto2 | auto3 |
 
-|IT computer homepage(https//jbnu.ac.kr)
+[IT computer homepage(https//jbnu.ac.kr)}
 
 ### usage
 
